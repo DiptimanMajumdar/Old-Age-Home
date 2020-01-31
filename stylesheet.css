@@ -1,0 +1,95 @@
+.top-wrapper {
+    padding: 180px 0 100px 0;
+    background-image: url(https://media1.popsugar-assets.com/files/thumbor/qwV80TE5hpb22D7LDyP-33tfDm8/fit-in/1024x1024/filters:format_auto-!!-:strip_icc-!!-/2015/03/19/020/n/1922507/43dc8c28_edit_img_cover_file_15775818_1426805386_shutterstock_170076587/i/Funny-Screenshots-Old-People-Using-Facebook-Incorrectly.jpg);
+    background-size: cover;
+    text-align: center;
+    font: bolder;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+/*.back-img{
+    background-image: url("https://media1.popsugar-assets.com/files/thumbor/qwV80TE5hpb22D7LDyP-33tfDm8/fit-in/1024x1024/filters:format_auto-!!-:strip_icc-!!-/2015/03/19/020/n/1922507/43dc8c28_edit_img_cover_file_15775818_1426805386_shutterstock_170076587/i/Funny-Screenshots-Old-People-Using-Facebook-Incorrectly.jpg");
+    filter: blur(2px);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}*/
+.lesson-wrapper{
+    height: 350px;
+  padding-bottom: 20px;
+  background-color:whitesmoke;
+  text-align:left;
+}
+.lesson-wrapper h3{
+    font-size: x-large;
+}
+.btn-wrapper {
+    text-align: center;
+    margin: 40px 0;
+  }
+  .btn {
+    padding: 24px 36px;
+    color: black;
+    display: inline-block;
+    opacity: 0.8;
+    border-radius: 4px;
+    font-size: x-large;
+    text-decoration: none;
+  }
+  .btn:hover {
+    opacity: 1;
+  }
+  .assistance{
+    background-color: lightcoral;
+    margin-right: 30px;
+  }
+  
+  .nursing {
+    background-color: lightgreen;
+    margin-right: 30px;
+  }
+  
+  .care {
+    background-color: lightblue;
+  }
+  .header-left {
+    float: left;
+  }
+  
+  .header-right {
+    float: right;
+    background-color:lightgreen;
+    transition: all 0.5s;
+    border-radius: 4px;
+  }
+  .header-right:hover {
+    background-color: greenyellow;
+  }
+  
+  .header-right a {
+    line-height: 65px;
+    padding: 0 25px;
+    color:red;
+    font-size: large;
+    display: inline-flex;
+    text-decoration: none;
+  }
+  .contact-us{
+    border-bottom: 2px solid #dee7ec;
+    font-size:28px;
+    padding-bottom:15px;
+    margin-bottom:50px;
+    text-align: center;
+  }
+  .contact{
+    font-size:28px;
+    text-align: center;
+  }
+  input,textarea{
+    width:400px;
+    margin-top:10px;
+    margin-bottom:30px;
+    padding:20px;
+    font-size:18px;
+    border:1px solid #dee7ec;
+  }
